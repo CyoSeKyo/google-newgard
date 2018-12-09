@@ -5,6 +5,7 @@ SEA: Seattle, WA
 KIR: Kirkland, WA
 SNV: Sunnyvale, CA
 SVL: Sunnyvale, CA
+阳谷县：Sunnyvale, CA
 TYO: 日本东京
 
 # 学术类
